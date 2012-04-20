@@ -4,5 +4,17 @@
 	},
 	"extDescription": {
 		"message": "TODO"
+	},
+	"searchGoogleMaps": {
+		"message": "Search Address in Google Maps"
+	},
+	"addGoogleCalendar": {
+		"message": "Add to Google Calendar"
+	},
+	"checkGoogleCalendar": {
+		"message": "Check Google Calendar"
+	},
+	"sendMail": {
+		"message": "Compose a mail to this address"
 	}
 }
